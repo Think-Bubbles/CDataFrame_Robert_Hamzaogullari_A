@@ -12,6 +12,9 @@ Welcome to our CDataFrame project – a C-based data frame that facilitates data
 ## Features
 
 Our CDataFrame project offers a powerful solution for data manipulation in the C programming language. Built to streamline repetitive data processing tasks, it provides functionalities akin to those found in popular spreadsheet software like "LibreOffice Calc" or "MS Excel", but with the flexibility and efficiency of a programming language.
+For the moment we have implemented two aspects of our final goal:
+- The colums which allow us to stock the data the user wants (for the moment we have restricted it to whole numbers but we plan on generalising it for other types of data)
+- Half of the CDataFrame, which basically consists of functionalities that allow us to create our CDataFrame (and that is a dynamic array of pointers to columns). As of right now we can create the CDataFrame and display it to the user.
 
 ## Getting Started 
 
@@ -24,9 +27,11 @@ TIn order to use this program, please insure that you have the following install
 
 ## Known bugs 
 
-
+None as of the 21/04/2024
 
 ## Contributors 
 
 - ROBERT William
 - HAMZAOGULLARI Batur
+
+[Link to our Github:](https://github.com/Think-Bubbles/CDataFrame_Robert_Hamzaogullari_A)
