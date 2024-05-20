@@ -27,7 +27,9 @@ TIn order to use this program, please insure that you have the following install
 
 ## Known bugs 
 
-None as of the 21/04/2024
+Be very careful with the user inputs as there are pretty much no secured entries.
+For checking any values superior or lower than, those functionalities work when it comes to manipulating individual columns, but when working with the CDataFrame as a whole they do not function properly
+Furthermore there are a few missing functionalities such as adding / removing lines and columns.
 
 ## Contributors 
 
